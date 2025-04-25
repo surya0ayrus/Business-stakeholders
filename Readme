@@ -1,0 +1,50 @@
+# 📊 Interactive Sales Dashboard (Power BI / Tableau)
+
+## 🚀 Objective
+Design an interactive business dashboard using a real-world sales dataset to help stakeholders make informed, data-driven decisions.
+
+---
+
+## 🧰 Tools Used
+- **Power BI** / **Tableau**
+- Dataset: Adidas Sales Dataset / Any Sales or Financial Dataset from [Kaggle](https://www.kaggle.com/)
+- Microsoft PowerPoint (for summary presentation)
+
+---
+
+## 📈 Key Features
+
+✅ Clean, modern visual design  
+✅ Slicers and filters for interactivity  
+✅ Time-series sales analysis  
+✅ KPI Cards for quick insights  
+✅ Navigation menu for multi-page experience  
+✅ Custom color themes for brand consistency
+
+---
+
+## 🔑 KPIs Included
+- **Total Sales**
+- **Total Profit**
+- **Profit Margin (%)**
+- **Units Sold**
+- **Sales Growth (%)**
+- **Top Product & Region by Sales**
+
+---
+
+## 📅 Dashboard Components
+| Section             | Visuals                                      |
+|---------------------|----------------------------------------------|
+| Top Row             | KPI Cards (Sales, Profit, Units, Margin %)   |
+| Left Panel          | Slicers (Region, Product, Retailer, Date)    |
+| Center              | Sales & Profit Trend (Line Chart)            |
+| Bottom Left         | Sales by Region (Bar Chart)                  |
+| Bottom Right        | Product Category Share (Donut Chart)         |
+| Navigation Menu     | Button-based page navigation (if used)       |
+
+---
+
+## 📊 Deliverables
+- ✅ **Interactive Sales Dashboard** (Power BI or Tableau)
+- ✅ **Executive Summary PPT** (Key insights, trends, and recommendations)
